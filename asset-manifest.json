@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Landing-Page-LoopStodios-/static/css/main.112f9892.css",
-    "main.js": "/Landing-Page-LoopStodios-/static/js/main.6bce1248.js",
+    "main.js": "/Landing-Page-LoopStodios-/static/js/main.8e3f2fa7.js",
     "static/media/image-hero.jpg": "/Landing-Page-LoopStodios-/static/media/image-hero.9b5aacead42e955824d3.jpg",
     "static/media/image-from-above.jpg": "/Landing-Page-LoopStodios-/static/media/image-from-above.f316f3f3afc353415f71.jpg",
     "static/media/image-interactive.jpg": "/Landing-Page-LoopStodios-/static/media/image-interactive.d6a3949b27bb7a0c79c6.jpg",
@@ -21,10 +21,10 @@
     "static/media/icon-close.svg": "/Landing-Page-LoopStodios-/static/media/icon-close.bbbbb0069bb8a015e77966ccb00bf3cd.svg",
     "static/media/icon-hamburger.svg": "/Landing-Page-LoopStodios-/static/media/icon-hamburger.5153cb809501d4309c231954bc0f9ec2.svg",
     "main.112f9892.css.map": "/Landing-Page-LoopStodios-/static/css/main.112f9892.css.map",
-    "main.6bce1248.js.map": "/Landing-Page-LoopStodios-/static/js/main.6bce1248.js.map"
+    "main.8e3f2fa7.js.map": "/Landing-Page-LoopStodios-/static/js/main.8e3f2fa7.js.map"
   },
   "entrypoints": [
     "static/css/main.112f9892.css",
-    "static/js/main.6bce1248.js"
+    "static/js/main.8e3f2fa7.js"
   ]
 }
