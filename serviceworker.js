@@ -1,8 +1,8 @@
 const self = this;
 const CACHE_NAME = 'static_cache'
 const STATIC_ASSETS = [
-    '/',
-    '/index.html'
+    '%PUBLIC_URL%/',
+    '%PUBLIC_URL%/index.html'
 ]
 
 self.addEventListener('install', e => {
